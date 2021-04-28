@@ -1,0 +1,23 @@
+{
+  "name": "Algorithm_Sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest --coverage --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mix-Liten/javascript-algorithm_sorting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mix-Liten/javascript-algorithm_sorting/issues"
+  },
+  "homepage": "https://github.com/Mix-Liten/javascript-algorithm_sorting#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
