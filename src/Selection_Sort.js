@@ -1,4 +1,5 @@
 /**
+ * 選擇排序，挑出最小值放在該輪最前方
  * Time complexity: O(n^2)
  * @param {Array<Number>} arr
  * @returns Array

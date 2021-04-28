@@ -1,4 +1,5 @@
 /**
+ * 插入排序，類似撲克牌遊戲的大老二，由後向前找到該元素應該放置的位置
  * Time complexity: O(n^2)
  * @param {Array<Number>} arr
  * @returns Array
