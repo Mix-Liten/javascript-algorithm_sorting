@@ -1,6 +1,7 @@
 /**
  * 插入排序，類似撲克牌遊戲的大老二，由後向前找到該元素應該放置的位置
- * Time complexity: O(n^2)
+ * Time complexity: Best case -> O(n), Worst case -> O(n²), Average O(n²)
+ * Space complexity: O(1)
  * @param {Array<Number>} arr
  * @returns Array
  */

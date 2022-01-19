@@ -2,7 +2,8 @@
  * 合併排序，先將陣列拆解至最小單位再合併，並於合併時進行比對
  * 拆解方式為二分法
  * 比對方式為判斷二分法兩側第一個值中的較小值依序放入該輪結果陣列，第一個值為上一輪已排序的最小值
- * Time complexity: O(n logn)
+ * Time complexity: O(n log n)
+ * Space complexity: O(n)
  * @param {Array<Number>} arr
  * @returns Array
  */

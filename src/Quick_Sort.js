@@ -1,6 +1,7 @@
 /**
  * 快速排序，設定任一基準點，以此基準點進行判斷，較小放左邊，較大放右邊，左右兩邊再重複進行前述步驟
- * Time complexity: O(n logn) ~ Ο(n^2)
+ * Time complexity: Best case -> O(n log n), Worst case -> O(n²), Average O(n²)
+ * Space complexity: O(log n)
  * @param {Array<Number>} arr
  * @returns Array
  */

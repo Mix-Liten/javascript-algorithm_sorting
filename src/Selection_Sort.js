@@ -1,6 +1,7 @@
 /**
  * 選擇排序，挑出最小值放在該輪最前方
- * Time complexity: O(n^2)
+ * Time complexity: O(n²)
+ * Space complexity: O(1)
  * @param {Array<Number>} arr
  * @returns Array
  */
